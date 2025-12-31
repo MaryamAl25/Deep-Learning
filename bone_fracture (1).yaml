@@ -1,0 +1,7 @@
+names:
+  0: fracture
+path: /kaggle/input/human-bone-fractures-image-dataset/Human Bone Fractures Multi-modal
+  Image Dataset (HBFMID)/Bone Fractures Detection
+test: test/images
+train: train/images
+val: valid/images
